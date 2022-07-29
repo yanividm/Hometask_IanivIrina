@@ -39,4 +39,3 @@ string [] array = createNewArray(3);
 showArray(array);
 string [] resultArray = arrayWithThreeCharsElements(array);
 showArray(resultArray);
-
